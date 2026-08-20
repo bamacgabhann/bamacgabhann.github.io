@@ -1,3 +1,4 @@
+![Navigator Geospatial logo](./assets/images/navigator_logo-no-icon.png)
 
 I'm Dr. Breandán Anraoi MacGabhann. I spent more than a decade as a lecturer in the School of GeoSciences at the University of Edinburgh, the Department of Geography at Edge Hill University, The Department of Geography at MIC Limerick, and The School of History and Geography (which I named) at UL.
 
