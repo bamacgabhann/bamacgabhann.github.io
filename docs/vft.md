@@ -1,9 +1,13 @@
 ---
-layout: page
+layout: default
 title: Virtual Field Trips
 permalink: /vft/
 ---
 ![Navigator Geospatial logo](./assets/images/navigator_logo-no-icon.png)
+
+[Home](/) | [Courses](/courses/) | [Virtual Field Trips](/vft/) | [Publications](/publications/)
+
+***
 
 # Virtual Field Trips
 

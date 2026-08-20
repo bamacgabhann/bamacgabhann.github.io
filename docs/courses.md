@@ -1,9 +1,14 @@
 ---
-layout: page
+layout: default
 title: Courses
 permalink: /courses/
 ---
 ![Navigator Geospatial logo](./assets/images/navigator_logo-no-icon.png)
+
+[Home](/) | [Courses](/courses/) | [Virtual Field Trips](/vft/) | [Publications](/publications/)
+
+***
+
 
 # Free Courses from Navigator Geospatial
 

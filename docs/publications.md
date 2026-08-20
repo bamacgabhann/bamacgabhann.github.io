@@ -1,9 +1,14 @@
 ---
-layout: page
+layout: default
 title: Publications
 permalink: /publications/
 ---
 ![Navigator Geospatial logo](./assets/images/navigator_logo-no-icon.png)
+
+[Home](/) | [Courses](/courses/) | [Virtual Field Trips](/vft/) | [Publications](/publications/)
+
+***
+
 
 # Academic Publications
 
