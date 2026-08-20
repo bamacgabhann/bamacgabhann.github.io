@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Virtual Field Trips
-permalink: /vft/
+permalink: /virtual-field-trips/
 ---
 ![Navigator Geospatial logo](./assets/images/navigator_logo-no-icon.png)
 
-[Home](/) | [Courses](/courses/) | [Virtual Field Trips](/vft/) | [Publications](/publications/)
+[Home](/) | [Courses](/courses/) | [Virtual Field Trips](/virtual-field-trips/) | [Publications](/publications/)
 
 ***
 
