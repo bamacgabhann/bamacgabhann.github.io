@@ -36,7 +36,7 @@ These virtual field trips comprise collections of videos and photographs recorde
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin-bottom: 40px;">
   <a href="https://bamacgabhann.github.io/vft/geirangerfjord-ess.html" style="flex-basis: 250px; flex-shrink: 0;">
-    <img src="https://bamacgabhann.github.io/vft/assets/geirangerfjord-ess/cover.webp" alt="Earth Science and Society Virtual Field Trip to Geirangerfjord" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://bamacgabhann.github.io/vft/assets/geirangerfjord_ess/cover.webp" alt="Earth Science and Society Virtual Field Trip to Geirangerfjord" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
   <div style="flex: 1; min-width: 250px;">
     <p>Based between Alesund and Geiranger in Norway, this virtual field trip explores some of the geology and geomorphology of the region, and how these have shaped society in the area.</p>
@@ -51,7 +51,7 @@ These virtual field trips comprise collections of videos and photographs recorde
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin-bottom: 40px;">
   <a href="https://bamacgabhann.github.io/vft/geirangerfjord.html" style="flex-basis: 250px; flex-shrink: 0;">
-    <img src="https://bamacgabhann.github.io/vft/assets/geirangerfjord/cover.webp" alt="Natural Hazards Virtual Field Trip to Geirangerfjord" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://bamacgabhann.github.io/vft/assets/geirangerfjord_full/cover.webp" alt="Natural Hazards Virtual Field Trip to Geirangerfjord" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
   <div style="flex: 1; min-width: 250px;">
     <p>Geirangerfjord is the most dangerous place in Norway. Find out what makes it so dangerous, why you shouldn't panic, what's being done about it, and how the area lives with this risk. Extended version - also includes the Earth Science and Society content.</p>
