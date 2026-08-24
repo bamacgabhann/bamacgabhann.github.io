@@ -16,7 +16,7 @@ permalink: /courses/
 
 As our climate deteriorates, extreme climatic events such as floods, storms, wildfires, landslides, and heatwaves are becoming more common, with more and more people, places, and infrastructure vulnerable. Planning for the future must account for potential vulnerability to more frequent climate hazards. This course will explore the physical causes and consequences of climate hazards, examine the risk factors which leave people, places, and infrastructure vulnerable, and develope your ability to assess these risks with a view to adaption and mitigation.
 
-[Climate Hazards course](https://bamacgabhann.github.io/GY5022/)
+[Climate Hazards course](https://navigatorgeospatial.ie/GY5022/)
 
 ---
 
@@ -24,7 +24,7 @@ As our climate deteriorates, extreme climatic events such as floods, storms, wil
 
 This course will introduce how to use geospatial data, with GIS software or Python code, for environmental analysis.
 
-[Environmental Geospatial Data Analysis course](https://bamacgabhann.github.io/GY5021/)
+[Environmental Geospatial Data Analysis course](https://navigatorgeospatial.ie/GY5021/)
 
 ---
 
@@ -38,7 +38,7 @@ There are 10 Notebooks to work through. The first is just a written introduction
 
 The main content of the course involves working through a series of QGIS exercises on the topic of flooding in Ireland - gradually leading you from simple tasks to more advanced analysis.
 
-[Geospatial Data in QGIS course](https://bamacgabhann.github.io/GY4006/)
+[Geospatial Data in QGIS course](https://navigatorgeospatial.ie/GY4006/)
 
 ---
 
@@ -48,7 +48,7 @@ This course introduces you to the key processes and materials in Earth science, 
 
 Topics to be covered include the formation of the solar system and the Earth; the structure of the Earth and plate tectonics; igneous, metamorphic, and sedimentary rocks, minerals, and processes; environments and landscapes; the fossil record and biogeography; economic geology, including mining and petroleum geology; and geoenvironmental engineering and management.
 
-[Earth Science and Society course](https://bamacgabhann.github.io/GY4051/)
+[Earth Science and Society course](https://navigatorgeospatial.ie/courses/earth_science_society)
 
 ---
 
@@ -58,6 +58,6 @@ The surface of the Earth is not static, but is constantly changing. Understandin
 
 Topics to be covered include plate tectonic processes; weathering and erosion; sediment transport agents and processes; sedimentary deposition and lithification processes; landscapes in a range of settings, including upland, glacial, fluvial, coastal, arid, and karst environments; anthropogenic landscapes, and landscape evolution. Key techniques used to study landscapes and environments past and present will be introduced, including geospatial analysis, and laboratory examination of sediments and rocks from various settings.
 
-[Landscape Evolution course](https://bamacgabhann.github.io/GY4027/)
+[Landscape Evolution course](https://navigatorgeospatial.ie/GY4027/)
 
 ---
