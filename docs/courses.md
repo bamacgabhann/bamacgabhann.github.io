@@ -16,15 +16,15 @@ permalink: /courses/
 
 As our climate deteriorates, extreme climatic events such as floods, storms, wildfires, landslides, and heatwaves are becoming more common, with more and more people, places, and infrastructure vulnerable. Planning for the future must account for potential vulnerability to more frequent climate hazards. This course will explore the physical causes and consequences of climate hazards, examine the risk factors which leave people, places, and infrastructure vulnerable, and develope your ability to assess these risks with a view to adaption and mitigation.
 
-[Climate Hazards course](https://navigatorgeospatial.ie/GY5022/)
+[Climate Hazards course](https://navigatorgeospatial.ie/courses/climate_hazards)
 
 ---
 
-## Environmental Geospatial Data Analysis:
+## Geospatial Data Analysis:
 
-This course will introduce how to use geospatial data, with GIS software or Python code, for environmental analysis.
+This course will introduce how to use Python for geospatial data analysis.
 
-[Environmental Geospatial Data Analysis course](https://navigatorgeospatial.ie/GY5021/)
+[Geospatial Data Analysis course](https://navigatorgeospatial.ie/GY5021/)
 
 ---
 
