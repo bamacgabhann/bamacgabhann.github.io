@@ -76,3 +76,21 @@ These virtual field trips comprise collections of videos and photographs recorde
 
 ---
 
+## Wexford and Waterford, Ireland
+*Earth Science and Society, Natural Resources, Geological History of Ireland and Britain*
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; margin-bottom: 40px;">
+  <a href="https://navigatorgeospatial.ie/vft/loch_garman.html" style="flex-basis: 250px; flex-shrink: 0;">
+    <img src="https://navigatorgeospatial.ie/vft/assets/loch_garman/cover.webp" alt="Virtual Field Trip to Wexford and Waterford" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  </a>
+  <div style="flex: 1; min-width: 250px;">
+    <p>The coasts of counties Wexford and Waterford expose rocks which tell the story of more than a billion years of Ireland's geological history, from the Mesoproterozoic to the Carboniferous Period >
+    <p><a href="https://navigatorgeospatial.ie/vft/parys.html"><strong>Take the virtual field trip to Wexford and Waterford &rarr;</strong></a></p>
+  </div>
+</div>
+
+---
+
+
+
+
